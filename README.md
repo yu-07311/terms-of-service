@@ -4,6 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>利用規約</title>
+     <style>
+        body {
+            color: #333333; /* 優しい黒に変更 */
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            padding: 20px;
+        }
+
+        h1, h2 {
+            color: #222222; /* 少し濃い目の文字色 */
+        }
+
+        p, ul, li {
+            color: #333333;
+        }
+
+        ul {
+            margin-left: 20px;
+        }
+    </style>
 </head>
 <body>
     <h1>利用規約</h1>
